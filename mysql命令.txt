@@ -1,0 +1,2 @@
+net start mysql 启动mysql服务
+net stop mysql 停止mysql服务
