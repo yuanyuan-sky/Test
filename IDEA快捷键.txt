@@ -1,0 +1,11 @@
+F8  下一步
+F7 进入方法
+shift + F8 跳出方法
+F9 跳到下一个断点
+alter+f9 跳到光标所在行
+
+快速try，catch 。选中代码 ctrl + alt + t 
+
+
+创建测试类
+在类里右键->go to->test
